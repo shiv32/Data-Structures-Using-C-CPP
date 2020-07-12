@@ -179,7 +179,7 @@ for(i=0,j=0;i<len;i++)
 		           if(postfix[i] != '\n')//ignore new line in print
 			   printf("%c",postfix[i]);
 	      }
-              printf("\n\n**********************************************************************************************\n");
+              printf("\n\n***********************************\n");
 }
 
 //flush/clean the file or buffer
@@ -200,7 +200,7 @@ do
 {
 system("clear");//clear terminal
 
-printf("\n*************************** Infix To Postfix Conversion **************************************\n");
+printf("\n*** Infix To Postfix Conversion ***\n");
 printf("\nEnter the Infix expression : ");
 
 fgets(infix, MAXSIZE, stdin); 
