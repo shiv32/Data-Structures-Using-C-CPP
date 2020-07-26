@@ -189,11 +189,11 @@ int main()
   {
   system("clear"); //clear terminal
 
-  cout<<"\n================= Infix to Postfix in C++ =================================\n";
+  cout<<"\n======= Infix to Postfix in C++ ==================\n";
   
   infx_postfx.Infix_Postfix();//calling the infix to postfix function
   
-  cout<<"\n===========================================================================\n";
+  cout<<"\n==================================================\n";
   
   cout << "\n\nDo you want to continue (Y/y) = ";
   
