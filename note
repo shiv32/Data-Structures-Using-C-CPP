@@ -1,6 +1,6 @@
 git add .
 git commit -m "my changes" 
-git remote add origin https://github.com/zinmyoswe/React-and-Django-Ecommerce.git
+git remote add origin https://github.com/shiv32/Data-Structures-Using-C-CPP.git
 git push -u origin master
 
 
